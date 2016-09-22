@@ -1,11 +1,13 @@
 # gopher
+[![Build Status](https://travis-ci.org/mshr-h/gopher.svg?branch=master)](https://travis-ci.org/mshr-h/gopher)
+[![license](https://img.shields.io/badge/license-MIT-orange.svg)](LICENSE)
 
 Print gopher ascii art
 
 ## Installation
 
 ```
-go get 
+go get github.com/mshr-h/gopher
 ```
 
 ## Usage
